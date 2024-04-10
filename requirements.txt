@@ -1,0 +1,5 @@
+hubspot==0.1.14.dev0
+hubspot-api-client==8.2.0
+requests==2.31.0
+time==1.0.0
+certifi==2023.11.17
